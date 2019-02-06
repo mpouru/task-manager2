@@ -1,3 +1,3 @@
-Stopwatch kopioitu
+Keskeneräinen task-manager-harjoitus
 
-https://gist.github.com/anonymous/fe5cdd7e9cd14fea796b27d19f8d1cb6
+Tätä voi testailla omalla koneellaan, jos lataa kansion ja avaa sieltä selaimeen index.html -tiedoston
