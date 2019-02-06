@@ -1,0 +1,105 @@
+
+
+.wrapper {
+    width: 900px;
+    height:700px;
+    position: absolute;
+    background-color: lightgray;
+    overflow: hidden;
+}
+
+
+
+.tasklist {
+    width: 400px; 
+    float:left; 
+    height:500px; 
+    background:gray; 
+    margin:10px;
+    padding:10px;
+    
+}
+.t_input{
+    width: 400px; 
+    
+    float:left; 
+    height:80px; 
+    background: grey; 
+    margin:10px;
+    padding:10px;
+}
+
+.activities{
+    width: 400px; 
+    float:left; 
+    height:500px; 
+    background:lightblue; 
+    margin:10px;
+    padding:10px;
+}
+
+
+
+.a_input{
+    width: 400px; 
+    float:left; 
+    height:80px; 
+    background: lightblue; 
+    margin:10px;
+    padding:10px;
+
+}
+
+.to_right{
+    float: right;
+    margin:10px;
+}
+.to_left{
+    float: left;
+    margin: 10px;
+}
+h1{
+    background-color: #fff
+}
+.add_description{
+    float:left; 
+   
+}
+.add_task{
+    float:left; 
+   
+}
+.task_item{
+    float: left;
+    padding-bottom: 10px;
+    background-color: blueviolet;
+}
+.item__name{
+    float: left; width: 200px;
+}
+.item__time{
+    float: left; width: 100px;
+}
+.open_task{
+    float: left;
+    width: 90px;
+}
+.act_item{
+    float: left;
+   
+} 
+.item__name{
+    float: left;
+}
+.item_start{
+    float: left;
+    padding-right: 5px
+}
+.item_stop{
+    float: left;
+    padding-right: 5px
+}
+.item__time{
+    float: left;
+    padding-right: 5px
+}
